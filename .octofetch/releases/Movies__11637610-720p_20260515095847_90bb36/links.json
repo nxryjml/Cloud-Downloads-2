@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6886",
+  "folder": "Movies__11637610-720p_20260515095847_90bb36",
+  "base_name": "Movies__11637610-720p_20260515095847_90bb36.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/nxryjml/Cloud-Downloads-2/releases/tag/co-releases-v1-6886",
+  "files": [
+    {
+      "name": "Movies__11637610-720p_20260515095847_90bb36.mp4",
+      "url": "https://github.com/nxryjml/Cloud-Downloads-2/releases/download/co-releases-v1-6886/Movies__11637610-720p_20260515095847_90bb36.mp4",
+      "api_url": "https://api.github.com/repos/nxryjml/Cloud-Downloads-2/releases/assets/420908930",
+      "id": 420908930,
+      "size": 1180728496,
+      "download_count": 0
+    }
+  ]
+}
